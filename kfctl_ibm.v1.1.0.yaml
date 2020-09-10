@@ -87,6 +87,6 @@ spec:
     name: tensorboard
   repos:
   - name: manifests
-    uri: https://github.com/kubeflow/manifests/archive/v1.1-branch.tar.gz
+    uri: https://github.com/mbudano/kubeflow-lab/raw/master/manifests-1.1-branch.tar.gz
   version: v1.1-branch
 status: {}
